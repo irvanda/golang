@@ -1,0 +1,3 @@
+To run go, just type:
+
+go run <file-name.go>
